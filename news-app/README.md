@@ -5,7 +5,7 @@ cd news-app
 
 ## Install Dependancies
 
-In the project directory, you can run:npm install
+In the project directory, you can run: npm install
 
 ### To run the Project
 npm start
